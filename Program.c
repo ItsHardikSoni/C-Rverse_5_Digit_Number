@@ -1,4 +1,7 @@
-/* Reverse digits of a 5 digit number */
+// If a five-digit number is input through the keyboard,
+// write a program to reverse the number.
+
+
 #include<stdio.h>
 #include<math.h>
 int main()
